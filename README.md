@@ -8,4 +8,4 @@ My final project after studying pandas and EDA.
 Link to my Kaggle's notebook:
 https://www.kaggle.com/code/shacharyarimi/shachar-yarimi-s-pandas3-project
 
-![Uploading image.png…]()
+<img width="746" height="573" alt="הגרף הכי מרשים" src="https://github.com/user-attachments/assets/d1ad921b-ab32-4932-8e4d-c6a719ccd622" />
