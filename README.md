@@ -4,3 +4,8 @@ My final project after studying pandas and EDA.
  I analyzed the data from the perspective of a channel manager (invented) who wants to bring new content for the summer vacation.
  At the end, you will find my recommendations, based on what the research provided me and what I concluded from it.
  *** All rights about the data reserved to Gayathri R in Kaggle ***
+
+Link to my Kaggle's notebook:
+https://www.kaggle.com/code/shacharyarimi/shachar-yarimi-s-pandas3-project
+
+![Uploading image.png…]()
